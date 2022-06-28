@@ -5,7 +5,6 @@ interface AuthenticationParams  {
     password: string;
 }
 
-
 export interface Authentication {
     auth(props: AuthenticationParams): Promise<AccountModel>
 }
