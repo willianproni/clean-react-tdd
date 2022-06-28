@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/willianproni/clean-react-tdd/issues"
   },
-  "homepage": "https://github.com/willianproni/clean-react-tdd#readme"
+  "homepage": "https://github.com/willianproni/clean-react-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
